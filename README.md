@@ -1,2 +1,2 @@
 # pirozhok
-Test project for Pirizhok.
+Test project for Pirizhok
