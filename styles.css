@@ -1,0 +1,27 @@
+h2 {
+  style="font-family:Verdana;"
+}
+div {
+   style="text-align:center;"
+}
+a {
+  style="color:purple;text-decoration:underline;text-align:center;"
+}
+p {
+  style="color:green;text-align:center;font-size:20px;"
+}
+span {
+  style="color:blue;font-family:Tahoma;"
+}
+#h2_1 {
+   style="text-decoration:underline;"
+}
+ul {
+  style="list-style-type:circle;"
+}
+#ul_1 {
+  style="list-style-type:square;"
+}
+ol {
+  style="list-style-type:georgian;"
+}
