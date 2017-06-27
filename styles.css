@@ -1,3 +1,21 @@
+/*
+
+Правильное объявление css правила:
+
+Пример 1:
+h2 {
+  font-family: "Verdana";
+}
+
+Пример 2:
+a {
+  color: purple;
+  text-decoration: underline;
+  text-align: center;
+}
+
+*/
+
 h2 {
   style="font-family:Verdana;"
 }
