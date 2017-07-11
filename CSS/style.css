@@ -1,0 +1,25 @@
+head {
+  width:940px;
+}
+body {
+  width:940px;
+  margin:0 auto;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-family:arial;
+  font-size:14px;
+}
+h1 {font-family: Times New Roman;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
+}
+footer{
+  width:940px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #333333;
+  color:#FFFFFF;
+}
+div{
+  color:#666666;
+}
